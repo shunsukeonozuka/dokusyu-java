@@ -1,4 +1,4 @@
-package to.msn.wings.selflearn.chap02;
+package chap02_Javaの基本;
 
 public class Practice5 {
 

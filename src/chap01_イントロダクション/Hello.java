@@ -1,4 +1,4 @@
-package to.msn.wings.selflearn.chap01;
+package chap01_イントロダクション;
 
 import java.time.LocalDateTime;
 
